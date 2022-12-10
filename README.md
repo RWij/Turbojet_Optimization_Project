@@ -1,2 +1,2 @@
 # Turbojet_Optimization_Project
-OpenMDAO (Python) codes for designing a single-spool turbojet engine.
+Course project to create OpenMDAO (Python) codes for optimizing a single-spool turbojet engine.
